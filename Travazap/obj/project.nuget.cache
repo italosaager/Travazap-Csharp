@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "eC28WbXbknFit8h6g3DQDOqQYjRGdRh/Ix+dDiXmLcLFYZRwMth0GRZZSTnMi+MzOjg56JQsk11ryhxm2Dtrkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\italo\\Documents\\Travazap\\Travazap\\Travazap\\Travazap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\inputsimulatorplus\\1.0.7\\inputsimulatorplus.1.0.7.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.24\\microsoft.windows.sdk.net.ref.10.0.22000.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'InputSimulatorPlus 1.0.7' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0-windows10.0.22000'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "InputSimulatorPlus",
+      "targetGraphs": [
+        "net6.0-windows10.0.22000"
+      ]
+    }
+  ]
+}

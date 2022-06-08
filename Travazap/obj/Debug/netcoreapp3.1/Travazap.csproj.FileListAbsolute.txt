@@ -1,0 +1,6 @@
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\netcoreapp3.1\Travazap.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\netcoreapp3.1\Travazap.csproj.ResolveComReference.cache
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\netcoreapp3.1\Travazap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\netcoreapp3.1\Travazap.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\netcoreapp3.1\Travazap.AssemblyInfo.cs
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\netcoreapp3.1\Travazap.csproj.CoreCompileInputs.cache

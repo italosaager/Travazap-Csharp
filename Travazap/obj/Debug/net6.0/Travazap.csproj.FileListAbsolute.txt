@@ -1,0 +1,17 @@
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\bin\Debug\net6.0\Travazap.exe
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\bin\Debug\net6.0\Travazap.deps.json
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\bin\Debug\net6.0\Travazap.runtimeconfig.json
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\bin\Debug\net6.0\Travazap.dll
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\bin\Debug\net6.0\Travazap.pdb
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\Travazap.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\Travazap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\Travazap.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\Travazap.AssemblyInfo.cs
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\Travazap.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\Travazap.dll
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\refint\Travazap.dll
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\Travazap.pdb
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\Travazap.genruntimeconfig.cache
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\ref\Travazap.dll
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\bin\Debug\net6.0\WindowsInput.dll
+C:\Users\italo\Documents\Travazap\Travazap\Travazap\obj\Debug\net6.0\Travazap.csproj.CopyComplete
